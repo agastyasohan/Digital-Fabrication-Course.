@@ -1,6 +1,9 @@
 # Digital-Fabrication-Course.
 using SolidEdge software
 
+# link to download SolidEdge software.
+https://www.plm.automation.siemens.com/plmapp/education/solid-edge/en_in/free-software/student?session=eyJraWQiOiJHb29kd2lsbCIsImFsZyI6IkVTMjU2In0.eyJyZWdpc3RyYXRpb24iOnsidGVybXNhZ3JlZW1lbnQiOiJ0cnVlIiwiY291bnRyeSI6IklOIiwic3VydmV5T3B0SW4iOmZhbHNlLCJtYXJrZXRpbmdPcHRJbiI6dHJ1ZSwidGVsZXBob25lU3VwcG9ydCI6ZmFsc2UsIm5hdGl2ZUN1c3RvbWVyTmFtZSI6IiIsIm5hdGl2ZVJlZ2lzdHJhdGlvbiI6e30sInVzZXJUeXBlIjp7InVzZXJUeXBlIjoiY29tcGFueSIsImluZGl2aWR1YWwiOmZhbHNlLCJjb21wYW55Ijp0cnVlfSwibmF0aXZlQWRkcmVzcyI6IiIsImJhZEd1eSI6ZmFsc2V9fQ.pLmSTFnj8IVp25Xir7aTVDdoxNfrXxiOtavuliXE2id79AxsO_ykNgHNaN2BLG1HeDEnJzh3AhUTgx1rE1QsNQ
+
 #                    Getting started with SOLID EDGE. 
 # How to Set the Environment and Start creating a part:
  Open SolidEdge
